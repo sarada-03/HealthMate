@@ -6,4 +6,5 @@ pypdf
 langchain_google_genai
 langchain_text_splitters
 langchain_community
+python-docx
 faiss-cpu
