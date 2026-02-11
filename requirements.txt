@@ -1,2 +1,8 @@
+streamlit
+python-dotenv
 google-generativeai
+PyPDF2
+langchain
+python-docx
+faiss-cpu
 bcrypt
